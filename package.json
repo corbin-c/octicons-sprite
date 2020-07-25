@@ -1,0 +1,15 @@
+{
+  "name": "svg-sprite-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "svg-sprite-maker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "corbin-c",
+  "license": "ISC",
+  "dependencies": {
+    "@corbin-c/minimal-server": "^1.0.6",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
